@@ -37,11 +37,6 @@ body {
           justify-content: center;
 }
 
-.kolxoz {
-  margin-right: 60px;
-  margin-bottom: 20px;
-}
-
 .header .header__menu {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -113,8 +108,8 @@ body {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .main .form .space-beetwen .form__block {
@@ -210,4 +205,5 @@ body {
   color: #a4b73a;
   margin-top: 10px;
   margin-bottom: 20px;
+  cursor: pointer;
 }
